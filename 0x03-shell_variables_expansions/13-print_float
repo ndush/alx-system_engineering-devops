@@ -1,0 +1,5 @@
+[A[A[B[B#!bin/bash[D[D[D[D[D[D[D[D/bin/bash
+printf '%2f\n' $NUM
+
+
+
